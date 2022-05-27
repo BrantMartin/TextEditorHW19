@@ -1,0 +1,9 @@
+{
+  "name": "Text Editor",
+  "short_name": "TextEd",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "App that edits text.",
+  "background_color": "#ffffff"
+}
